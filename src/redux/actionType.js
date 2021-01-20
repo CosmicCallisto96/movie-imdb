@@ -1,0 +1,2 @@
+export const SET_DATA="SET_DATA";
+export const TOGGLE_FETCHING_STATE="TOGGLE_FETCHING_STATE";
